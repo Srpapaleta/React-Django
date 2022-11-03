@@ -17,7 +17,7 @@ export function Search() {
           type="text"
           value={search ?? ""}
           autoFocus
-          placeholder="Title"
+          placeholder="Busca un libro"
           aria-label="Search Movies"
           onChange={(e) => {
             const value = e.target.value;
