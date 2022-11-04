@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import { MovieDetails } from "./pages/MovieDetails";
 import { LandingPage } from "./pages/LandingPage";
+import { Filters } from "./components/Filters.jsx";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Link to="/">
           <h1 className={styles.title}>DigitalBooks</h1>
         </Link>
+        <Filters />
       </header>
       <main>
         <Routes>

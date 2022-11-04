@@ -1,0 +1,16 @@
+.filtersContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.filtersButton{
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: aquamarine;
+    font-weight: bold;
+    font-size: 30px;
+    cursor: pointer;
+}
