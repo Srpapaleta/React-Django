@@ -4,6 +4,7 @@ import { Spinner } from "../components/Spinner";
 import { getMovieImg } from "../utils/getMovieImg";
 import { get } from "../utils/httpClient";
 import styles from "./MovieDetails.module.css";
+import moviesJsonData from '../components/movies.json';
 
 export function MovieDetails() {
   const { movieId } = useParams();
@@ -12,11 +13,12 @@ export function MovieDetails() {
 
   useEffect(() => {
     setIsLoading(true);
-
-    get("/movie/" + movieId).then((data) => {
-      setMovie(data);
-      setIsLoading(false);
-    });
+    setMovie(moviesJsonData[0]);
+    setIsLoading(false);
+    // get("/movie/" + movieId).then((data) => {
+    //   setMovie(data);
+    //   setIsLoading(false);
+    // });
   }, [movieId]);
 
   if (isLoading) {
@@ -35,10 +37,10 @@ export function MovieDetails() {
         <p className={styles.firstItem}>
           <strong>Title:</strong> {movie.title}
         </p>
-        <p>
+        {/* <p>
           <strong>Genres:</strong>{" "}
           {movie.genres.map((genre) => genre.name).join(", ")}
-        </p>
+        </p> */}
         <p>
           <strong>Description:</strong> {movie.overview}
         </p>
