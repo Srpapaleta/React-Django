@@ -9,14 +9,13 @@ import {
 import { MovieDetails } from "./pages/MovieDetails";
 import { LandingPage } from "./pages/LandingPage";
 import { Filters } from "./components/Filters.jsx";
+import logo from '../public/icon2.png';
 
 function App() {
   return (
     <Router>
       <header>
-        <Link to="/">
-          <h1 className={styles.title}>DigitalBooks</h1>
-        </Link>
+        <img src={logo} className={styles.logo} />
         <Filters />
       </header>
       <main>

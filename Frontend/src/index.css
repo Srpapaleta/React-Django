@@ -4,7 +4,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background: #008f39;
+  background-image: url("/image.webp");
   color: white;
 }
 

@@ -14,6 +14,11 @@ export function MovieDetails() {
   useEffect(() => {
     setIsLoading(true);
     setMovie(moviesJsonData[0]);
+    moviesJsonData.forEach(element => {
+      if (element.id == movieId) {
+        setMovie(element);
+      }
+    });
     setIsLoading(false);
     // get("/movie/" + movieId).then((data) => {
     //   setMovie(data);
