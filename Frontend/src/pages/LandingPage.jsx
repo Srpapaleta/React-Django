@@ -1,5 +1,5 @@
 import { useSearchParams } from "react-router-dom";
-import { MoviesGrid } from "../components/MoviesGrid";
+import { BooksGrid } from "../components/BooksGrid";
 import { Search } from "../components/Search";
 import { useDebounce } from "../hooks/useDebounce";
 import { Filters } from "../components/Filters.jsx";
@@ -14,7 +14,7 @@ export function LandingPage() {
     <div>
       <Filters />
       <Search />
-      <MoviesGrid key={debouncedSearch} search={debouncedSearch}/>
+      <BooksGrid key={debouncedSearch} search={debouncedSearch}/>
     </div>
   );
 }

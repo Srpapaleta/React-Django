@@ -19,7 +19,7 @@ export function Search() {
           value={search ?? ""}
           autoFocus
           placeholder="Busca tu libro por título"
-          aria-label="Search Movies"
+          aria-label="Search Books"
           onChange={(e) => {
             const value = e.target.value;
             setQuery({ search: value, category: category ? category : '' });

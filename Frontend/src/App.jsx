@@ -6,7 +6,7 @@ import {
   Link,
   Navigate,
 } from "react-router-dom";
-import { MovieDetails } from "./pages/MovieDetails";
+import { BookDetails } from "./pages/BookDetails";
 import { LandingPage } from "./pages/LandingPage";
 import logo from '../public/icon2.png';
 
@@ -20,7 +20,7 @@ function App() {
       </header>
       <main>
         <Routes>
-          <Route path="/movies/:movieId" element={<MovieDetails />} />
+          <Route path="/books/:bookId" element={<BookDetails />} />
           <Route path="/" element={<LandingPage />} />
           <Route path="*" element={<Navigate replace to="/" />} />
         </Routes>
