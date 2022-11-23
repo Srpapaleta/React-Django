@@ -82,17 +82,6 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'djongo',
-#         'CLIENT': {
-#             'host': 'mongodb+srv://clust0usr:ZbqCy6OqhF0whihQ@cluster0.4sxiynz.mongodb.net/test',
-#             'name': 'DigitalBooks',
-#             'authMechanism': 'SCRAM-SHA-1'
-#         }
-#     }
-# }
-
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
 
