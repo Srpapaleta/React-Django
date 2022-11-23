@@ -8,7 +8,6 @@ import {
 } from "react-router-dom";
 import { MovieDetails } from "./pages/MovieDetails";
 import { LandingPage } from "./pages/LandingPage";
-import { Filters } from "./components/Filters.jsx";
 import logo from '../public/icon2.png';
 
 function App() {
@@ -18,7 +17,6 @@ function App() {
         <Link to="/">
           <img src={logo} className={styles.logo} />
         </Link>
-        <Filters />
       </header>
       <main>
         <Routes>

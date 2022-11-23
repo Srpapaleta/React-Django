@@ -5,6 +5,7 @@ import { useSearchParams } from "react-router-dom";
 export function Search() {
   const [query, setQuery] = useSearchParams();
   const search = query.get("search");
+  const category = query.get("category");
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -21,8 +22,7 @@ export function Search() {
           aria-label="Search Movies"
           onChange={(e) => {
             const value = e.target.value;
-
-            setQuery({ search: value });
+            setQuery({ search: value, category: category ? category : '' });
             // navigate("/?search=" + value);
           }}
         />

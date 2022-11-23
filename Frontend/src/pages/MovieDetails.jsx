@@ -4,7 +4,7 @@ import { Spinner } from "../components/Spinner";
 import { getMovieImg } from "../utils/getMovieImg";
 import { get } from "../utils/httpClient";
 import styles from "./MovieDetails.module.css";
-import moviesJsonData from '../components/movies.json';
+import moviesJsonData from '../utils/books.json';
 
 export function MovieDetails() {
   const { movieId } = useParams();
