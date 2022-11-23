@@ -15,7 +15,9 @@ function App() {
   return (
     <Router>
       <header>
-        <img src={logo} className={styles.logo} />
+        <Link to="/">
+          <img src={logo} className={styles.logo} />
+        </Link>
         <Filters />
       </header>
       <main>
