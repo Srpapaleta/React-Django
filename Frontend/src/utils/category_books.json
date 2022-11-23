@@ -1,0 +1,244 @@
+{
+    "Novela" : [
+        {
+            "id": 1,
+            "title": "Don Quijote de la Mancha",
+            "author": "Miguel de Cervantes",
+            "genre": "Novela",
+            "overview": "La obra más destacada de la literatura española y una de las más importantes de la literatura universal. El libro más leído después de la Biblia no puede pasar desapercibido por tu vida, es una obra de arte que solo unos pocos saben apreciar. ¡Ay! Qué sería de nosotros sin las locuras del ingenioso hidalgo y su fiel Sancho Panza… Qué legado tan precioso nos dejó Cervantes.",
+            "poster_path": "https://www.elejandria.com/covers/Don_Quijote_de_la_Mancha-Cervantes_Miguel-lg.png"
+        },
+        {
+            "id": 3,
+            "title": "La Divina Comedia",
+            "author": "Dante Alighieri",
+            "genre": "Novela",
+            "overview": "Este poema no es solo el trabajo más importante del autor, sino que es una de las obras esenciales de la transición del pensamiento medieval (teocentrista) al renacentista (antropocentrista). Al igual que el Quijote, La Divina Comedia es considerada la mejor obra de la literatura italiana y también tiene su hueco entre las más significativas de la literatura universal.",
+            "poster_path": "https://images.cdn2.buscalibre.com/fit-in/360x360/01/e0/01e04c600c7b7bfaf5a14c17a640e5af.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Cien años de soledad",
+            "author": "Gabriel García Márquez",
+            "genre": "Novela",
+            "overview": "Cien años de soledad es una novela del escritor colombiano Gabriel García Márquez, ganador del Premio Nobel de Literatura en 1982. Es considerada una obra maestra de la literatura hispanoamericana y universal, así como una de las obras más traducidas y leídas en español.",
+            "poster_path": "https://covers.alibrate.com/b/59872e8acba2bce50c1a6d96/b0bf30dd-8585-4a46-9229-c72a94282fbe/share"
+        },
+        {
+            "id": 6,
+            "title": "Nada",
+            "author": "Carmen Laforet",
+            "genre": "Novela",
+            "overview": "Nada es la primera novela de la escritora barcelonesa Carmen Laforet y una de las obras literarias más importantes de la España del siglo XX. Se trata de una obra existencialista que representa el estancamiento y la pobreza que se vivieron en la posguerra española, durante los primeros años del franquismo.",
+            "poster_path": "https://image.cdn1.buscalibre.com/60d16cf08463b5601a8c2d73.RS500x500.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Conversación en La Catedral",
+            "author": "Mario Vargas Llosa",
+            "genre": "Novela",
+            "overview": "El ganador del Premio Nobel de Literatura en 2010 no podía faltar en esta lista. Es la novela que más trabajo le ha dado, tanto que asegura que si tuviera que salvar del fuego una sola de las que he escrito, salvaría esta. Además, el principio de esta obra es considerado como uno de los mejores inicios de una novela. Si aún no te lo has leído, estás a tiempo de descubrirlo.",
+            "poster_path": "https://covers.alibrate.com/b/59872e8dcba2bce50c1ab1ed/3f555559-ae1d-462a-a066-8f66292a8682/share"
+        },
+        {
+            "id": 9,
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Novela",
+            "overview": "La obra que habló de los derechos humanos, la libertad intelectual, el totalitarismo y la distopía en una ficción social y política. No podía ser otra que 1984, del gran George Orwell.",
+            "poster_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/1984first.jpg/220px-1984first.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Sentido y Sensibilidad",
+            "author": "Jane Austen",
+            "genre": "Novela",
+            "overview": "Perteneciente al grupo de los ‘clásicos’ de la novela inglesa. Se caracteriza por la forma irónica que tenía de hacer del ambiente de la nobleza y de la burguesía rural de la Inglaterra de finales del siglo XVIII una comedia. Tenía una delicadeza especial para plasmar el alma y los sentimientos de sus personajes. Sus obras son tan trascendentales que en la actualidad sigue siendo leída, pues muchos de los que ya han disfrutado de sus obras, dicen que todo lo que hay que saber sobre la vida está recogido en las seis novelas que escribió Jane Austen.",
+            "poster_path": "https://images.cdn1.buscalibre.com/fit-in/360x360/48/1a/481af0f05af4f6e4389219a073c0628f.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Entre visillos",
+            "author": "Carmen Martín Gaite",
+            "genre": "Novela",
+            "overview": "Galardonada con el premio Nadal en 1957 gracias a esta novela. Un diálogo entre un grupo de chicas va desvelando el vacío de sus vidas ante la falta de experiencia y de interés con la que afrontan su existencia.",
+            "poster_path": "https://www.planetadelibros.com.co/usuaris/libros/fotos/161/m_libros/160490_portada_entre-visillos_carmen-martin-gaite_201505260950.jpg"
+        },
+        {
+            "id": 12,
+            "title": "El museo de la inocencia",
+            "author": "Orham Pamuk",
+            "genre": "Novela",
+            "overview": "Ganador del premio Nobel en 2006. Pamuk nos traslada a los años setenta y la primera mitad de los ochenta del siglo pasado cuando en Turquía los partidos de derecha y de izquierda libraban batallas políticas y en ocasiones, hasta se producían golpes militares.",
+            "poster_path": "https://images.cdn3.buscalibre.com/fit-in/360x360/58/ce/58ce915cadf69f98f4f19ce4f627e568.jpg"
+        },
+        {
+            "id": 13,
+            "title": "El doctor Zhivago",
+            "author": "Borís Pasternak",
+            "genre": "Novela",
+            "overview": "Autor ruso que pese haber ganado el Premio Nobel de Literatura en 1958, tuvo que renunciar a él por la presión gubernamental. Uno de los temas centrales de la obra gira en torno a la palabra Zhivago, que tiene la misma raíz que la palabra rusa que significa vida. Esta obra fue censurada, puesto que el doctor Zhivago estaba más preocupado por el bienestar de los individuos que por el de la sociedad (tópico soviético). De la misma manera, el primer secretario del Partido Comunista de la Unión Soviética de aquel momento, Nikita Jruschov, también atacó al escritor, aunque no se leyó el libro. En definitiva, acusaban el trabajo de Pasternak como antisoviético.",
+            "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM1-6c1k_TkrYeyUzqw1jFXwC1AZMBJBKck7uHvWpLk5sXUnR"
+        },
+        {
+            "id": 14,
+            "title": "Los miserables",
+            "author": "Víctor Hugo",
+            "genre": "Novela",
+            "overview": "En 1862 escribió una de las obras más importantes del siglo XIX. Víctor Hugo plasma todos aquellos problemas de la sociedad: el bien y el mal, la política y la religión. Es una obra muy completa, puesto que además le pone forma a los estereotipos vigentes en aquella época y se posiciona en contra de la pena de muerte. En definitiva, la obra se puede aplicar a cualquier época, pues es una clara defensa a los oprimidos, sin tener en cuenta el lugar o la situación sociohistórica que vivan.",
+            "poster_path": "https://image.cdn0.buscalibre.com/60e394828463b5f3158b4c90.__RS360x360__.jpg"
+        },
+        {
+            "id": 18,
+            "title": "El sentido de un final",
+            "author": "Julian Banes",
+            "genre": "Novela",
+            "overview": "The Sense of an Ending es una novela de 2011 escrita por el autor británico Julian Barnes. El libro es la undécima novela de Barnes escrita con su propio nombre y se publicó el 4 de agosto de 2011 en el Reino Unido.",
+            "poster_path": "https://www.anagrama-ed.es/uploads/media/portadas/0001/15/21e85a9cc22a1be84f0940305368a5886526602b.jpeg"
+        },
+        {
+            "id": 19,
+            "title": "Rojo y negro",
+            "author": "Stendhal",
+            "genre": "Novela",
+            "overview": "Rojo y negro es una novela psicológica de Stendhal publicada en 1830. La obra figuró en el Index Librorum Prohibitorum de la Iglesia católica hasta 1900.",
+            "poster_path": "https://quelibroleo.com/images/libros/libro_1363433257.jpg"
+        },
+        {
+            "id": 24,
+            "title": "El museo de la inocencia",
+            "author": "Orhan Pamuk",
+            "genre": "Novela",
+            "overview": "Esta novela de Orhan Pamuk es una historia de amor contemporánea. La acción transcurre en las décadas de los setenta y ochenta y narra la historia de Kemal, heredero de una de las familias más ricas de Estambul, y su amor por Füsun, una pariente lejana de clase inferior.",
+            "poster_path": "https://images.cdn3.buscalibre.com/fit-in/360x360/58/ce/58ce915cadf69f98f4f19ce4f627e568.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Corazón tan blanco",
+            "author": "Javier Marías",
+            "genre": "Novela",
+            "overview": "Una novela hipnótica sobre el secreto y su conveniencia posible, sobre el matrimonio, el asesinato y la instigación, sobre la sospecha, el hablar y el callar y la persuasión: sobre los corazones tan blancos que poco a poco se van tiñendo y acaban siendo lo que nunca quisieron ser.",
+            "poster_path": "https://imagessl2.casadellibro.com/a/l/t5/02/9788483461402.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Ámsterdam",
+            "author": "Ian McEwan",
+            "genre": "Novela",
+            "overview": "Amsterdam es la historia de un pacto de eutanasia entre dos amigos, un compositor y un editor de periódico, cuya relación se convierte en un desastre.",
+            "poster_path": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/AmsterdamNovel.jpg/220px-AmsterdamNovel.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Cinco horas con Mario",
+            "author": "Miguel Delibes",
+            "genre": "Novela",
+            "overview": "Cinco horas con Mario es una novela del escritor español Miguel Delibes publicada en 1966. Fue incluida en la lista de las 100 mejores novelas en español del siglo XX del periódico español El Mundo. La trama gira en torno a las vivencias de Carmen Sotillo con su recién fallecido esposo, Mario Díez.",
+            "poster_path": "https://www.planetadelibros.com.co/usuaris/libros/fotos/69/m_libros/68811_portada_cinco-horas-con-mario_miguel-delibes_201911041312.jpg"
+        },
+        {
+            "id": 30,
+            "title": "El largo adiós",
+            "author": "Raymond Chandler",
+            "genre": "Novela",
+            "overview": "El largo adiós es una novela escrita por Raymond Chandler y publicada por Hamish Hamilton en Estados Unidos en 1953. Forma parte de la serie de libros protagonizada por el detective privado Philip Marlowe y está considerada una de las obras cumbres del género negro.",
+            "poster_path": "https://storage.googleapis.com/catalogo-libros/extralarge/402e00f4-387b-06f9-9452-5d430a2886d5_imagen.JPG"
+        }
+    ],
+    "Ficción" : [
+        {
+            "id": 7,
+            "title": "Mujercitas",
+            "author": "Louisa May Alcott",
+            "genre": "Ficción",
+            "overview": "Publicada en 1868. La historia de cuatro niñas que, tras pasar la adolescencia, se ven obligadas a madurar por la Guerra Civil en Estados Unidos entre 1861 y 1865. Basada en experiencias de la autora, es una novela considerada de crecimiento o evolución personal.",
+            "poster_path": "https://panamericana.vteximg.com.br/arquivos/ids/434503-1080-1080/mujercitas-9788418395758.jpg"
+        },
+        {
+            "id": 16,
+            "title": "El grito silencioso",
+            "author": "Kenzaburo Oé",
+            "genre": "Ficción",
+            "overview": "Narra la historia de los hermanos Nedokoro, Mitsusaburo Mitsu y Takashi Taka, quienes viajan de regreso a su tierra natal en la isla de Shikoku, donde el segundo tratará de emular la revolución del primer año de Mannen (1861), animando a los aldeanos a levantarse contra el Emperador de los Supermercados, empresario coreano de gran poder e influencia en la región, bajo el pretexto de entrenar un equipo de fútbol. Por otro lado, para Mitsu representa un viaje introspectivo, en el cual deberá evaluar su situación actual y sus perspectivas a futuro, en un matrimonio que se ha estancado y comenzado a pudrir a raíz del nacimiento de un hijo con discapacidad y del alcoholismo de la mujer de Mitsu.",
+            "poster_path": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNaFQe6gVD5sOpFmzajKjsLBDhmmwfnil3PcfBIWAq9HObdLCe"
+        },
+        {
+            "id": 20,
+            "title": "La náusea",
+            "author": "Jean-Paul Sartre",
+            "genre": "Ficción",
+            "overview": "Narra las desventuras de un joven que percibe el mundo como algo absurdo. Esta obra maestra de Sartre describe el descenso hacia una oscuridad que se vuelve inevitable y la apatía que siente el protagonista hacia la realidad que le toca vivir.",
+            "poster_path": "https://images.cdn2.buscalibre.com/fit-in/360x360/34/f4/34f421cec108222848cc47100de219eb.jpg"
+        },
+        {
+            "id": 21,
+            "title": "El sabueso de los Baskerville",
+            "author": "Arthur Conan Doyle",
+            "genre": "Ficción",
+            "overview": "La novela está principalmente ambientada en Dartmoor, en Devon, un condado del oeste de Inglaterra. Conan Doyle escribió esta historia poco después de regresar de Sudáfrica, donde había trabajado como voluntario médico en The Langman Field Hospital en Bloemfontein. Fue asistido en el argumento por un periodista de 30 años de edad del Daily Express llamado Bertram Fletcher Robinson (1870-1907).",
+            "poster_path": "https://images.cdn1.buscalibre.com/fit-in/360x360/18/65/1865b0f533649fdee431e207a94d12c5.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Demasiada felicidad",
+            "author": "Alice Munro",
+            "genre": "Ficción",
+            "overview": "Una joven madre recibe consuelo inesperado por la muerte de sus tres hijos, otra mujer reacciona de forma insólita ante la humillación a la que la somete un hombre; otros cuentos describen la crueldad de los niños y los huecos de soledad que se crean en el día a día de la vida de pareja.",
+            "poster_path": "https://imagessl2.casadellibro.com/a/l/t7/32/9788426418432.jpg"
+        },
+        {
+            "id": 5,
+            "title": "La Celestina",
+            "author": "Fernando de Rojas",
+            "genre": "Ficción",
+            "overview": "Volvemos a España para hablar de nuestro querido Fernando de Rojas. Desde la Puebla de Montalbán (Toledo) a todo el mundo, así, sin más. La Tragicomedia de Calisto y Melibea, más conocida como La Celestina, es una de las lecturas que no pueden faltar en los institutos. Una obra que no podía faltar en esta lista por su argumento amoroso, su finalidad didáctica, la acertada elección de los personajes y su forma de dialogar tan peculiar hacen que no nos podamos despegar de esta distintiva historia de amor.",
+            "poster_path": "https://www.cervantesvirtual.com/s3/BVMC_OBRAS/ffa/c66/288/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ffac6628-82b1-11df-acc7-002185ce6064_2.jpg"
+        }
+    ],
+    "Drama" : [
+        {
+            "id": 15,
+            "title": "Anna Karénina",
+            "author": "Lev N. Tolstói",
+            "genre": "Drama",
+            "overview": "Ana Karénina es una novela del autor ruso León Tolstói, publicada por primera vez en forma de libro en 1878. Muchos escritores la consideran una de las obras literarias más grandes jamás escritas, y el mismo Tolstói la llamó su primera novela verdadera.",
+            "poster_path": "https://www.isliada.org/static/images/2016/01/Anna-Karenina-500x769.jpg"
+        },
+        {
+            "id": 27,
+            "title": "La insoportable levedad del ser",
+            "author": "Milan Kundera",
+            "genre": "Drama",
+            "overview": "La insoportable levedad del ser es una novela del escritor checo Milan Kundera, publicada en 1984. Ambientada en Praga durante 1968, La insoportable levedad del ser trata de un hombre y sus dudas existenciales en torno a la vida en pareja, convertidas en conflictos sexuales y afectivos.",
+            "poster_path": "https://images.cdn3.buscalibre.com/fit-in/360x360/a7/55/a755db76ceedaad06a681f3a47beee46.jpg"
+        }
+    ],
+    "Historia" : [
+        {
+            "id": 17,
+            "title": "Voces de Chernóbil",
+            "author": "Svletana Alexiévich",
+            "genre": "Historia",
+            "overview": "El libro recoge información recopilada durante diez años por la autora tras haber entrevistado a más de quinientas personas que fueron testigos del desastre de Chernóbil, Ucrania, entre los que se encuentran bomberos, liquidadores, políticos, físicos, psicólogos, residentes en la zona afectada, y también familiares de los anteriores fallecidos.En él se exploran las vidas diarias de los ciudadanos afectados de manera directa e indirecta, tanto física como psicológicamente, a raíz de la explosión de la central nuclear.",
+            "poster_path": "https://images.cdn1.buscalibre.com/fit-in/360x360/2a/05/2a053cc58d37a327a49cb9998e227758.jpg"
+        }
+    ],
+    "Biografía": [
+        {
+            "id": 22,
+            "title": "Léxico familiar",
+            "author": "Natalia Ginzburg",
+            "genre": "Biografía",
+            "overview": "Léxico familiar habla de los Levi, una familia judía y antifascista que vivió en Turín desde 1930 hasta 1950. Natalia era una de las hijas del profesor Levi y fue testigo privilegiado de los momentos íntimos de la familia, de ese parloteo entre padres y hermanos que se convierte en un idioma secreto.",
+            "poster_path": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/633410.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Infancia",
+            "author": "J.M. Coetzee",
+            "genre": "Biografía",
+            "overview": "Vive en Worcester, una pequeña localidad al norte de Ciudad del Cabo, con una madre a la que adora y detesta a la vez, un hermano menor y un padre por quien no siente respeto alguno. Lleva una doble vida: en el colegio es el alumno modélico, el primero de la clase; en casa, un pequeño déspota.",
+            "poster_path": "https://quelibroleo.com/images/libros/libro_1269869025.jpg"
+        }
+    ]
+}

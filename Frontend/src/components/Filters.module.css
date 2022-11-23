@@ -1,0 +1,19 @@
+.filtersContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-bottom: 2rem;
+}
+
+.filtersButton{
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: #1a5d46;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 3px;
+    margin: 6px;
+    font-size: 30px;
+    border: none;
+}
